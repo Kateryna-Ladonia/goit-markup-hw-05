@@ -569,17 +569,8 @@ address {
   transform: translateY(-50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal-label-textarea {
-  font-size: 12px;
-  line-height: 1.17;
-  letter-spacing: 0.04em;
-  color: #8e8f99;
-  display: block;
-  margin-bottom: 8px;
-  resize: none;
-  background: transparent;
-  width: 100%;
-  outline: transparent;
+.user-comment-cont {
+  margin-bottom: 16px;
 }
 .modal-textarea {
   background: transparent;
